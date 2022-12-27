@@ -1,8 +1,13 @@
-- I’m interested in creating Apps
-- I’m currently learning python
-- jion our <a href="https://t.me/matrix_developer">Telegram Group</a>
-- subscribe our <a href="https://youtube.com/@matrixcri">YouTube Channel</a>
-- subscribe our <a href="https://t.me/matrixcriappdevelopment">Telegram Channel</a>
+ I’m interested in creating Apps
+<hr>
+ I’m currently learning python
+<hr>
+ <a href="https://t.me/matrix_developer"><h1>Telegram Group</h1></a>
+<hr>
+ subscribe our <a href="https://youtube.com/@matrixcri">YouTube Channel</a>
+<hr>
+ subscribe our <a href="https://t.me/matrixcriappdevelopment">Telegram Channel</a>
+<hr>
 
 <!---
 kuttahaitu/kuttahaitu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
