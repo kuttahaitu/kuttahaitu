@@ -1,6 +1,6 @@
 - I’m interested in creating Apps
 - I’m currently learning python
-- jion our telegram group <a href="http://t.me/matrix_developer">Telegram Group</a>
+- jion our <a href="https://t.me/matrix_developer">Telegram Group</a>
 
 <!---
 kuttahaitu/kuttahaitu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
