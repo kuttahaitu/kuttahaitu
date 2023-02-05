@@ -1,6 +1,4 @@
- I’m interested in creating Apps
-<hr>
- I’m currently learning python
+ 
 <hr>
  <a href="https://t.me/matrix_developer"><h1>Telegram Group</h1></a>
 <a href="https://t.me/matrix_developer">Telegram Group</a>
